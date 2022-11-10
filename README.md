@@ -5,8 +5,8 @@
 PyTorchによるニューラルネットワーク構築から、画像認識/自然言語処理の実装まで経験しております。
 
 ### 【画像認識】
-#### 1. YOLOv7とWEBカメラを使用した物体検知アプリ
-今年リリースされたYOLOv7を使用して、object detectionを実装。
+#### 1. YOLOv5とWEBカメラを使用した物体検知アプリ
+One-stage 物体検知モデルYOLOv5を使用して、object detectionを実装。
 WEBカメラを通じて人を検知し、特定の領域内に人が入ったときに枠線の色が変わる簡単なアプリを作成しました。
 
 #### 2. Semantic Segmentationを行うためのU-Net実装
